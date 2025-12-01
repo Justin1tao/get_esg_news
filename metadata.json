@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of ESG FinBERT Data Collector",
+  "description": "A specialized tool to gather, generate, and format ESG-related financial news for S&P 500 companies, optimized for FinBERT analysis pipelines.",
+  "requestFramePermissions": []
+}
